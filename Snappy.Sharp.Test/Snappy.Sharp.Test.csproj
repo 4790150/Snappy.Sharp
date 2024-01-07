@@ -12,7 +12,7 @@
     <RootNamespace>Snappy.Sharp.Test</RootNamespace>
     <AssemblyName>Snappy.Sharp.Test</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <TargetFrameworkProfile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
